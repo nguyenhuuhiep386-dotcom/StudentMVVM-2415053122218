@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="author">Nguyễn Hữu Hiệp · MSSV 2415053122218</string>
+    <string name="student_list">Danh sách sinh viên</string>
+    <string name="student_count">%1$d sinh viên</string>
+    <string name="sync_button">Đồng bộ API</string>
+    <string name="sync_hint">Dữ liệu được lưu trên thiết bị bằng Room.</string>
+    <string name="sync_running">Đang lấy dữ liệu từ API…</string>
+    <string name="sync_done">Đã đồng bộ %1$d sinh viên từ API.</string>
+    <string name="sync_offline">Không kết nối được API. Dữ liệu Room vẫn sử dụng được.</string>
+    <string name="sync_invalid">API trả dữ liệu không hợp lệ. Dữ liệu Room vẫn sử dụng được.</string>
+    <string name="sync_error">Đồng bộ thất bại. Hãy thử lại.</string>
+    <string name="empty_title">Chưa có sinh viên</string>
+    <string name="empty_hint">Thêm sinh viên hoặc đồng bộ để lấy dữ liệu mẫu.</string>
+    <string name="source_local">Nhập tại máy</string>
+    <string name="source_api">Từ API</string>
+    <string name="student_code_format">MSSV %1$s</string>
+    <string name="gpa_format">GPA %1$.2f</string>
+    <string name="no_email">Chưa có email</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="edit_student">Sửa sinh viên</string>
+    <string name="delete_student">Xóa sinh viên</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="field_name">Họ và tên</string>
+    <string name="field_code">Mã sinh viên</string>
+    <string name="field_email">Email (không bắt buộc)</string>
+    <string name="field_gpa">GPA (0–4)</string>
+    <string name="name_required">Nhập họ và tên.</string>
+    <string name="code_required">Nhập mã sinh viên.</string>
+    <string name="email_invalid">Email chưa đúng định dạng.</string>
+    <string name="gpa_invalid">GPA phải từ 0 đến 4.</string>
+    <string name="delete_confirmation">Bạn muốn xóa %1$s khỏi danh sách?</string>
+    <string name="student_saved">Đã lưu sinh viên.</string>
+    <string name="student_deleted">Đã xóa sinh viên.</string>
+    <string name="write_error">Không lưu được thay đổi. Hãy thử lại.</string>
+</resources>

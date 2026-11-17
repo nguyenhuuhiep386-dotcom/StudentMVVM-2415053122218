@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#165A4A</color>
+    <color name="primary_container">#D9F1E8</color>
+    <color name="on_primary_container">#124639</color>
+    <color name="app_background">#F4F8F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#142C25</color>
+    <color name="muted">#4C6258</color>
+    <color name="outline">#D8E4DE</color>
+    <color name="danger">#9C3C35</color>
+</resources>
